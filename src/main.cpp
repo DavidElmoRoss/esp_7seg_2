@@ -1,5 +1,5 @@
 /*
-  Title:  This program puts the value  123 on the 4 digit display
+  Title:  This program scrolls a message on the 4 digit display
   Author: David Elmo Ross
   Date:   July 24th, 2025
   Description: This program uses the setSegments() function to scroll
